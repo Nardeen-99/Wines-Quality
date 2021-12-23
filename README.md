@@ -1,0 +1,2 @@
+# Wines-Quality
+In this dataset, we'll be analyzing a little over 10k red &amp; white wines ingredients focusing on whether or not a specific ingredient can control the quality if the wine.  There will be several factors to consider such as quality or acidity (fixed acidity, volatile acidity, citric acid, residual sugar and pH) and others. The goal is to determine whether or not these factors have a direct correlation with the quality of wine.
